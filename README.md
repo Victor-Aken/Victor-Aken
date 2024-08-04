@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there 👋, I'm Victor Aken
+I'm a software developer with a passion for creating innovative and user-friendly applications.
 
 <!--
 **Victor-Aken/Victor-Aken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
